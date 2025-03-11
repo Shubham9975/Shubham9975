@@ -26,6 +26,10 @@ Aspiring to become a **Data Analyst** or **Data Scientist**, I am focused on lev
 - **Machine Learning Model Development**
 - **Statistical Data Analysis**
 
+### 📌 Featured Project: [Big Data Project](https://github.com/Shubham9975/BigDataProject)
+
+![Big Data Project Architecture](https://github.com/user-attachments/assets/e9df7e9b-ae3c-40d9-84dc-f97b0cd612de)
+
 ## 💡 Learning & Hobbies
 
 - Exploring cutting-edge **Data Science** tools and techniques
@@ -39,13 +43,13 @@ Aspiring to become a **Data Analyst** or **Data Scientist**, I am focused on lev
 
 ## 📌 GitHub Stats
 
-![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubham-rampurkar&show_icons=true&theme=radical)
+![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubham9975&show_icons=true&theme=radical)
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubham-rampurkar&theme=github-dark)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shubham9975&theme=github-dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-rampurkar&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham9975&layout=compact&theme=radical)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shubham-rampurkar&theme=darkhub)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Shubham9975&theme=darkhub)
 
 
 
