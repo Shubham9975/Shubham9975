@@ -64,13 +64,14 @@ Aspiring to become a **Data Analyst** or **Data Scientist**, I am focused on lev
 
 ## 📌 GitHub Stats
 
-![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubham9975&show_icons=true&theme=radical)
+![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubham9975&show_icons=true&theme=radical&cache_seconds=86400)
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shubham9975&theme=github-dark)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shubham9975&theme=github-dark&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham9975&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham9975&layout=compact&theme=radical&cache_seconds=86400)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Shubham9975&theme=darkhub)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Shubham9975&theme=darkhub&margin-w=5&cache_seconds=86400)
+
 
 
 
