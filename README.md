@@ -26,9 +26,30 @@ Aspiring to become a **Data Analyst** or **Data Scientist**, I am focused on lev
 - **Machine Learning Model Development**
 - **Statistical Data Analysis**
 
-### 📌 Featured Project: [Big Data Project](https://github.com/Shubham9975/BigDataProject)
+### 📌 Featured Projects:
 
-![Big Data Project Architecture](https://github.com/user-attachments/assets/e9df7e9b-ae3c-40d9-84dc-f97b0cd612de)
+1.  [End_To_End_ML_Project_deployment](https://github.com/Shubham9975/End_To_End_ML_Project_deployment.git)  
+
+📌 **Project Overview**  
+
+🔍 **Data Preprocessing**  
+- Loaded and cleaned the Boston House Pricing dataset.  
+- Standardized features using **StandardScaler**.  
+
+📊 **Model Training**  
+- Trained a **Linear Regression** model.  
+- Split data and evaluated using **MAE, MSE, RMSE, R²**.  
+
+🚀 **Model Deployment**  
+- Saved the model with **Pickle**.  
+- Deployed via **Docker & Google Cloud Run** using **GitHub Actions**.  
+
+---
+
+2.  [Big Data Project](https://github.com/Shubham9975/BigDataProject)  
+
+![Big Data Project Architecture](https://github.com/user-attachments/assets/e9df7e9b-ae3c-40d9-84dc-f97b0cd612de)  
+
 
 ## 💡 Learning & Hobbies
 
