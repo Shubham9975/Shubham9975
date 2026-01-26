@@ -6,7 +6,7 @@ I'm a passionate Data Enthusiast currently exploring the world of Big Data, Mach
 
 ## 🎯 Career Goals
 
-Aspiring to become a **Data Analyst** or **Data Scientist**, I am focused on leveraging data-driven insights to drive impactful decisions.
+Aspiring to become a **Machine Learning Engineer**, **Data Scientist** or **Data Engineer**, I am focused on leveraging data-driven insights to drive impactful decisions.
 
 ## 🔥 Technical Skills
 
